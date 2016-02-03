@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>Wwhat is the capital city for the international airport??</question>
+              <option>Roterdam</option>
+              <option>amsterdam</option>
+              <option>Jutrecht</option>
+			  <answer>Amserdam</answer>
+        </task>         
+        <task>
+              <question>what city is Phillips main office?</question>
+              <option>Eindhoven</option>
+              <option>Antwerepen</option>
+              <option>den haag</option>
+			  <answer>Eindhoven</answer>
+        </task>         
+        <task>
+              <question>what what city  is the main harbour in ?</question>
+              <option>belmont</option>
+              <option>rottrdam</option>
+              <option>ghent</option>
+			  <answer>rotterdam</answer>
+        </task> 
+		<task>
+              <question>what is the flower</question>
+              <option>roses</option>
+              <option>tulips</option>
+              <option>violet</option>
+			  <answer>tulip</answer>
+        </task>
+		<task>
+              <question>name the airline for holland?</question>
+              <option>qantas</option>
+              <option>klm</option>
+              <option>panam</option>
+			  <answer>klm</answer>
+        </task>          
+</All>
